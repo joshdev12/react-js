@@ -1,0 +1,13 @@
+.loop{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    text-align: center;
+}
+
+.loop-content{
+    width: 338px;    
+    padding: 0 23px;
+}
+
+
